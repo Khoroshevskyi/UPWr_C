@@ -4,6 +4,7 @@
 int ujemna(int liczba);
 int dodatnia(int liczba);
 
+// pierwsze zadanie - lista 3
 int main(void)
 {
     int naszaLiczba;
@@ -21,16 +22,13 @@ int main(void)
     }
 
     printf("Nasz wynik to: %i \n", wynik);
-
     return 0;
-
 }
 
 
 int ujemna(int liczba)
 {
     int wynik = liczba*liczba;
-
     return wynik;
 }
 
