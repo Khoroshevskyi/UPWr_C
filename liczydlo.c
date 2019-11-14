@@ -25,7 +25,6 @@ int main(void)
     return 0;
 }
 
-
 int ujemna(int liczba)
 {
     int wynik = liczba*liczba;
