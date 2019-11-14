@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int ujemna(int liczba);
 int dodatnia(int liczba);
 
