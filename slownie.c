@@ -18,12 +18,7 @@ int main(void)
     scanf("%i", &our_integer);
 
     printf("333 %s \n", proste[5]);
-    if (our_integer>999) {
 
-    }
-    else {
-        printf("Our integer is: %i \n", our_integer);
-    }
 
     if (our_integer <20 ) {
         printf("Slownie: %s \n", proste[(our_integer - 1)]);
